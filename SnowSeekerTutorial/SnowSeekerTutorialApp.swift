@@ -11,7 +11,7 @@ import SwiftUI
 struct SnowSeekerTutorialApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            searchable()
         }
     }
 }
